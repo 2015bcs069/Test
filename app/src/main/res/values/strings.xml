@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GreenHouse</string>
+    <string name="radio_female">Status</string>
+    <string name="radio_male">OFF</string>
+    <string name="paired_default_status">NONE</string>
+</resources>
