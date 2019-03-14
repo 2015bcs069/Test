@@ -1,0 +1,3 @@
+# Test
+Greenhouses are structures where plants are grown. They are often used for growing flowers, vegetables fruits and other food crops and may be used at any season or year-round. The closed environment of a greenhouse has its own unique requirements compared with outdoor
+production. The greenhouses are very useful because they provide an optimal temperature around plants, protect them from weather extremes and extends the growing season. The rising demand for crop production and quality has significantly increased the utilization of high-quality greenhouse. The increased population in Uganda demands for large amount of crop production and so we can cultivate the crops which need some specific environmental conditions in the greenhouse. 
